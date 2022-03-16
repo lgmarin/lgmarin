@@ -5,7 +5,7 @@
 
 I'm an Engineer from Brazil and I'm fascinated with programming languages, Linux and computers in general. I love to solve problems and learn new things using Python.
 
-Right now I'm currently working wiht some fullstack web app development with Flask, Bootstrap and MySql.
+Right now I'm currently working wiht a fullstack web app development with Flask, Bootstrap and MySql. And I want to learn .Net Core and C# to work with ASP.NET development.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
@@ -17,6 +17,12 @@ Right now I'm currently working wiht some fullstack web app development with Fla
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue)
+
+## 🌱 What I'm Learning
+![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=csharp&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=csharp&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Azure-informational?style=flat&logo=azure&logoColor=white&color=blue)
 
 ## &#x1f4c8; 𝗦𝘁𝗮𝘁𝘀
 [![Luiz Marin Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgmarin&layout=compact)](https://github.com/lgmarin)
