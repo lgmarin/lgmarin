@@ -22,7 +22,7 @@ Right now I'm currently working wiht a fullstack web app development with Flask,
 ## 🌱 What I'm Learning
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c-sharp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Platform-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=blue)
 
 ## &#x1f4c8; 𝗦𝘁𝗮𝘁𝘀
 [![Luiz Marin Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgmarin&layout=compact)](https://github.com/lgmarin)
