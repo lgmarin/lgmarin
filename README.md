@@ -13,7 +13,7 @@ Right now I'm currently working wiht a fullstack web app development with Flask,
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=blue)
@@ -23,6 +23,7 @@ Right now I'm currently working wiht a fullstack web app development with Flask,
 ![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=c-sharp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Platform-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
 
 ## &#x1f4c8; 𝗦𝘁𝗮𝘁𝘀
 [![Luiz Marin Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgmarin&layout=compact)](https://github.com/lgmarin)
