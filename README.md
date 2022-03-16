@@ -20,7 +20,7 @@ Right now I'm currently working wiht a fullstack web app development with Flask,
 ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue)
 
 ## 🌱 What I'm Learning
-![](https://img.shields.io/badge/Code-C-sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=c-sharp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Platform-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=blue)
 
