@@ -10,6 +10,7 @@ Right now I'm currently working wiht a fullstack web app development with Flask,
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
@@ -19,10 +20,9 @@ Right now I'm currently working wiht a fullstack web app development with Flask,
 ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue)
 
 ## 🌱 What I'm Learning
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=csharp&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c-sharp&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=csharp&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Azure-informational?style=flat&logo=azure&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=blue)
 
 ## &#x1f4c8; 𝗦𝘁𝗮𝘁𝘀
 [![Luiz Marin Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgmarin&layout=compact)](https://github.com/lgmarin)
