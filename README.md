@@ -27,7 +27,7 @@ Right now I'm currently working wiht a fullstack web app development with Flask,
 
 ## &#x1f4c8; 𝗦𝘁𝗮𝘁𝘀
 [![Luiz Marin Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgmarin&layout=compact)](https://github.com/lgmarin)
-
+![Luiz Marin GitHub stats](https://github-readme-stats.vercel.app/api?username=lgmarin&show_icons=true)
 
 <!--
 **lgmarin/lgmarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
