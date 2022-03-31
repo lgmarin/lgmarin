@@ -20,6 +20,7 @@ Right now I'm learning (everything :rofl:) .Net Core and C# to work with ASP.NET
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 
 ## 🌱 What I'm Learning
 ![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=c-sharp&logoColor=white&color=blue)
