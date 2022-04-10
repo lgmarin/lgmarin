@@ -5,7 +5,7 @@
 
 I'm an Engineer from Brazil and I'm fascinated with programming languages, Linux and computers in general. I love to solve problems and learn new things using Python.
 
-Right now I'm currently working wiht a fullstack web app development with Flask, Bootstrap, MySql and Docker. 
+Right now I'm currently working with fullstack web app development with Flask, Bootstrap, MySql and Docker. 
 
 Right now I'm learning (everything :rofl:) .Net Core and C# to work with ASP.NET development, and a little bit of the Azure Platform.
 
